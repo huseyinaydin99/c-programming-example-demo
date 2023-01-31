@@ -1,0 +1,3 @@
+﻿  001_Keylogger.cpp
+001_Keylogger.obj : error LNK2019: unresolved external symbol MAPISendMail referenced in function "void __cdecl send_email(char *,char *,char *)" (?send_email@@YAXPEAD00@Z)
+C:\Users\Huseyin_Aydin\source\repos\001_Keylogger\x64\Debug\001_Keylogger.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,3 @@
+Ahmet Matematik 80
+Veli Turkce 90
+Huseyin C-programming 101
